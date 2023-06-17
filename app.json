@@ -1,13 +1,13 @@
 {
-  "name": "Lêɠêɳ̃dẞο†",
-  "description": "LegendBot is one of the best userbot on telegram based on telethon & python",
-  "logo": "https://telegra.ph/file/ac9bd7bcdac984dd407b2.jpg",
+  "name": "Neiman",
+  "description": "neiman is one of the best userbot on telegram based on telethon & python",
+  "logo": "https://graph.org/file/2dc409a3a2299c15803bb.jpg",
   "keywords": [
     "plugin",
-    "legendbot",
+    "Neimanbot",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-AI/LEGENDBOT",
+  "repository": "https://github.com/Neiman-AI/NEIMANBOT",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
